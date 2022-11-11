@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577762392887",
+    "project_id": "inapp-2948d",
+    "storage_bucket": "inapp-2948d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577762392887:android:720a2277fc8ffcfa7b38b2",
+        "android_client_info": {
+          "package_name": "com.sbteecontent.blogspot.inapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577762392887-5fgamoll2lh3sfi73i90vt673pdu2qa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdT6wtakA3sHd60JfnLiTQua5Pe7afsDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577762392887-5fgamoll2lh3sfi73i90vt673pdu2qa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
